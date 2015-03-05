@@ -171,4 +171,29 @@ var quiz3 = 90;
 var average = (quiz1+quiz2+quiz3)/3;
 console.log (average);
 
+//concatenation - combing test strings
+//use the + pluse sign - add and concatenation
+
+var firstName = "Kermit";
+var lastName = "The Frog";
+var fullName = firstName +"  "+ lastName;
+console.log (fullName)
+
+var d = "5";
+var e = "7";
+var combined = (d+e); // d+Number(e)  truns strings into readable numbers
+console.log(combined);
+
+//if you want the text string to be a number you have to cast it
+// the number ( the text string)
+
+
+var pi = 3.14;
+
+//round a number we use the .toFixed(#)
+var num = 5.8723990235904352
+
+//rounded
+var n = num.toFixed(2);
+console.log(n)
 
