@@ -59,7 +59,7 @@ console.log (b);
 
 var yearBorn = 1981;
 
-//2012 - the year we are born
+//2015 - the year we are born
 var ourAge = 2015-yearBorn-1;
 console.log (ourAge);
 
@@ -195,5 +195,5 @@ var num = 5.8723990235904352
 
 //rounded
 var n = num.toFixed(2);
-console.log(n)
+console.log("the rounded number to 2 decimal place is "+n)
 
