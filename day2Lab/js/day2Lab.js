@@ -27,17 +27,17 @@
   “Each	person	ate	X	slices	of	pizza	at	the	party.”
  */
 
-var slicePerBox=100;
-var peopleAtParty=5;// this is the number of people at party
-var pizzasOrdered=1;// this is the number of pizza ordered
+var slicePerBox=8;
+var peopleAtParty=10;// this is the number of people at party
+var pizzasOrdered=4;// this is the number of pizza ordered
 var epa="Each person ate "; //phrase1 test string
 var sopatp=" slices of pizza at the party."; //phrase2 text string
 slicesPerPizza=(pizzasOrdered * slicePerBox) /peopleAtParty;// this is were var1 + var2 = var called slicesPerPizza
-var total = epa + slicesPerPizza + sopatp // this is were string text and number are combined for output
+var total1 = epa + slicesPerPizza + sopatp; // this is were string text and number are combined for output
 
 //console.log ("If the number of people is "(peopleAtParty)"divided by "(pizzasOrdered)"="(slicesPerPizza);
 //console.log(slicesPerPizza);// echo command in console
-console.log (total); //echo command in console
+console.log (total1); //echo command in console
 //_______________________________________________________________________________________________________________________//
 
 /*
@@ -57,8 +57,11 @@ console.log (total); //echo command in console
   “Sparky	got	X slices	of	pizza.”
  */
 
+var howMuchDogEats = (pizzasOrdered * slicePerBox) % peopleAtParty;//
+var sparkGot="Spark got ";
+var slicesOfPizza=" slices of pizza.";
+var total2 = sparkGot + howMuchDogEats + slicesOfPizza
+console.log(total2);
 
-
-
-
+/
 
