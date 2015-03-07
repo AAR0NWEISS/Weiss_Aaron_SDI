@@ -106,15 +106,14 @@ Result	Format:
 with	tax.”
 -----------------------------------------------------------------------------------------------------------------------*/
 
-var originalPrice=10;
-var descriptionItem="house";
-var discountPercentage=30;
-var saleTaxPercentage=7.5;
-//var priceTax=(originalPrice*saleTaxPercentage)+originalPrice;
-var xPriceTax=saleTaxPercentage/100;
-var xDiscountPercentage=discountPercentage/100*originalPrice;
-var totalDiscount=originalPrice-xDiscountPercentage
-var totalTax=totalDiscount+xPriceTax
+var originalPrice=10;// place to store var price
+var descriptionItem="house";//place to hold var "text string" i.g. house
+var discountPercentage=30;//place to hol var for amount of discount i.g. 30%
+var saleTaxPercentage=6;//plase to hold var for amount of sales tax i.g 7.5%
+//var priceTax=(originalPrice*saleTaxPercentage)+originalPrice;   code will not output positive #  REM line DOS
+var xPriceTax=saleTaxPercentage/100;//place to hold var for sales tax %. converts percentages in<=>out decimal
+var xDiscountPercentage=discountPercentage/100*originalPrice;//place to hold var that add/combine other var
+var totalDiscount=originalPrice-xDiscountPercentage;//place to hold var that does not out put negative #  REM line DOS Code working
 var totalTax=totalDiscount+xPriceTax;// place to hold var. total discount
 
 console.log("Your "+descriptionItem+" was originally $"+originalPrice+", but after a "+discountPercentage+"% disconunt, It is now $"+totalDiscount+" without tax, and $"+totalTax+" with tax.")
