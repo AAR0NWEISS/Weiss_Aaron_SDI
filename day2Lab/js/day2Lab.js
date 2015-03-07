@@ -77,14 +77,18 @@ console.log(total2);
  week”
  */
 
-var week1=5;
-var week2=5;
-var week3=5;
-var week4=5;
-var week5=5;
-//var week6=5;
-var totalWeek= (week1 + week2 + week3 + week4 + week5) / 5;
-console.log (totalWeek);
+var week1=100;//place to store var week1
+var week2=100;// place to store var week2
+var week3=100;// place to store var week3
+var week4=100;//place to store  var week4
+var week5=100;// place to store var week5
+var totalWeek= week1+week2+week3+week4+week5;// combine weeks1-5
+
+console.log ("You have spent a total of $"+totalWeek+" on groceries over 5 weeks.");// I can echo with string in console command   echo command console
+console.log ("That is an average of $"+(totalWeek/5)+" per week.");  //echo command console
+console.log ("That is an average of $"+(totalWeek/5)*48+" per year.");  //echo command console
+
+/*-----------------------------------------------------------------------------------------------------------------------*/
 
 
 
