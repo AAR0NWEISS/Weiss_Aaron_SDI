@@ -115,6 +115,7 @@ var xPriceTax=saleTaxPercentage/100;
 var xDiscountPercentage=discountPercentage/100*originalPrice;
 var totalDiscount=originalPrice-xDiscountPercentage
 var totalTax=totalDiscount+xPriceTax
+var totalTax=totalDiscount+xPriceTax;// place to hold var. total discount
 
 console.log("Your "+descriptionItem+" was originally $"+originalPrice+", but after a "+discountPercentage+"% disconunt, It is now $"+totalDiscount+" without tax, and $"+totalTax+" with tax.")
 
