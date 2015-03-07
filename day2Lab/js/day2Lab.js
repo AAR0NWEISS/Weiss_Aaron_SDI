@@ -37,7 +37,7 @@ var total1 = epa + slicesPerPizza + sopatp; // this is were string text and numb
 
 //console.log ("If the number of people is "(peopleAtParty)"divided by "(pizzasOrdered)"="(slicesPerPizza);
 //console.log(slicesPerPizza);// echo command in console
-console.log (total1); //echo command in console
+console.log(total1); //echo command in console
 //_______________________________________________________________________________________________________________________//
 
 /*
@@ -88,9 +88,30 @@ console.log ("You have spent a total of $"+totalWeek+" on groceries over 5 weeks
 console.log ("That is an average of $"+(totalWeek/5)+" per week.");  //echo command console
 console.log ("That is an average of $"+(totalWeek/5)*48+" per year.");  //echo command console
 
-/*-----------------------------------------------------------------------------------------------------------------------*/
+/*
+Discounts
+Calculate	the	discounted	price	for	an	item.	Create	an	expression	that	will	calculate	the
+discounted	price	with	and without sales	tax.	(It	is	acceptable	for	the	result	to	have	more	than
+two	digits	after	the	decimal.	$345.896	for	example.)
+    Givens:
+         Original	price
+ Discount	percentage
+ Description	of	item
+ Sales	tax	percentage
+Result	Variables:
+     Price	of	the	item	with	tax
+     Price	of	the	item	without	tax
+Result	Format:
+     “Your	X was	originally	$X,	but	after	a	X%	discount,	it	is	now	$X without	tax,	and	$X
+with	tax.”
+-----------------------------------------------------------------------------------------------------------------------*/
 
+var originalPrice=345.896;
+var descriptionItem="house";
+var discountPercentage=.30;
+var saleTaxPercentage="1";
+var priceTax="tax";
+var priceNoTax"No tax";
 
-
-
+console.log("Your"+descriptionItem+" was originally $"+originalPrice+", but after a "+discountPercentage+"% disconunt, It is now $"+priceNoTax+" without tax, and $"+priceTax+" with tax.")
 
