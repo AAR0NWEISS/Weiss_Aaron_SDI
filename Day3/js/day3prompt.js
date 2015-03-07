@@ -15,7 +15,7 @@
  */
 
 prompt ("enter year of birth:");
-var userinput = prompt:("enter year of birth");
+var userinput = prompt("enter year of birth");
 console.log(userinput);
 
 // let calculate the are fo a rectangle

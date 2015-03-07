@@ -49,7 +49,7 @@ console.log("The average number of oranges picked per day is "+averageOranges+".
 
 ///-----------------------------------------------------------------------------------------
 
-///
+/*------------------------------------------------------debug
 var fruitBowl = ['apple', "mango","grape", "grape", "banana"];
 console.log(fruitBowl);
 
@@ -68,8 +68,8 @@ var caughtStrwwberry = fruitBowl.pop
 console.log (fruitBowl);
 console.log (caughtitem;
 console.log (caughtStrwwberry);
-)
 
+*/
 
 
 
