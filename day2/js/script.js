@@ -177,7 +177,7 @@ console.log (average);
 var firstName = "Kermit";
 var lastName = "The Frog";
 var fullName = firstName +"  "+ lastName;
-console.log (fullName)
+console.log (fullName);
 
 var d = "5";
 var e = "7";
@@ -191,7 +191,7 @@ console.log(combined);
 var pi = 3.14;
 
 //round a number we use the .toFixed(#)
-var num = 5.8723990235904352
+var num = 5.8723990235904352;
 
 //rounded
 var n = num.toFixed(2);

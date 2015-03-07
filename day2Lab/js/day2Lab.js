@@ -106,12 +106,15 @@ Result	Format:
 with	tax.”
 -----------------------------------------------------------------------------------------------------------------------*/
 
-var originalPrice=345.896;
+var originalPrice=10;
 var descriptionItem="house";
-var discountPercentage=.30;
-var saleTaxPercentage="1";
-var priceTax="tax";
-var priceNoTax"No tax";
+var discountPercentage=30;
+var saleTaxPercentage=7.5;
+//var priceTax=(originalPrice*saleTaxPercentage)+originalPrice;
+var xPriceTax=saleTaxPercentage/100;
+var xDiscountPercentage=discountPercentage/100*originalPrice;
+var totalDiscount=originalPrice-xDiscountPercentage
+var totalTax=totalDiscount+xPriceTax
 
-console.log("Your"+descriptionItem+" was originally $"+originalPrice+", but after a "+discountPercentage+"% disconunt, It is now $"+priceNoTax+" without tax, and $"+priceTax+" with tax.")
+console.log("Your "+descriptionItem+" was originally $"+originalPrice+", but after a "+discountPercentage+"% disconunt, It is now $"+totalDiscount+" without tax, and $"+totalTax+" with tax.")
 
