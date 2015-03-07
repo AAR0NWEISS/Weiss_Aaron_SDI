@@ -27,7 +27,7 @@
   “Each	person	ate	X	slices	of	pizza	at	the	party.”
  */
 
-var slicePerBox=8;
+var slicePerBox=8;// slice of piza per box
 var peopleAtParty=10;// this is the number of people at party
 var pizzasOrdered=4;// this is the number of pizza ordered
 var epa="Each person ate "; //phrase1 test string
@@ -57,11 +57,36 @@ console.log (total1); //echo command in console
   “Sparky	got	X slices	of	pizza.”
  */
 
-var howMuchDogEats = (pizzasOrdered * slicePerBox) % peopleAtParty;//
-var sparkGot="Spark got ";
-var slicesOfPizza=" slices of pizza.";
-var total2 = sparkGot + howMuchDogEats + slicesOfPizza
+var howMuchDogEats = (pizzasOrdered * slicePerBox) % peopleAtParty;// place to store output of var
+var sparkGot="Spark got ";// text string
+var slicesOfPizza=" slices of pizza."; //text string 2
+var total2 = sparkGot + howMuchDogEats + slicesOfPizza;//echo command for console
 console.log(total2);
 
-/
+/*______________________________________________________________________________________________________________________
+ Average	shopping	bill
+ You	are	budgeting	your	money	for	the	year	and	must	calculate	your	average	weekly	grocery
+ shopping	spending	over	the	past	five	weeks.	Calculate the	average	amount	spent	on	groceries.
+ Givens:
+  5	weekly	grocery	bills.
+ Result	Variable:
+  Total	amount spent	on	groceries.
+  Average	weekly	grocery	spending.
+ Result	Format:
+  “You	have spent	a	total	of	$X on	groceries	over	5	weeks.	That	is	an	average	of	$X per
+ week”
+ */
+
+var week1=5;
+var week2=5;
+var week3=5;
+var week4=5;
+var week5=5;
+//var week6=5;
+var totalWeek= (week1 + week2 + week3 + week4 + week5) / 5;
+console.log (totalWeek);
+
+
+
+
 
