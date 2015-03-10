@@ -45,7 +45,7 @@ console.log (c);
 
 var tShirtOwned = prompt, ("how may t-shirt did lyyou currentely own?")
 
-var tShirtBought = promt, ("how may t-shirt did you buy?")
+var tShirtBought = prompt, ("how may t-shirt did you buy?")
 
 
 //ask the user how many the bought
