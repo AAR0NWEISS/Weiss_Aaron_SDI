@@ -9,7 +9,7 @@
 //alert("text that the user will see");
 //great for checking values and debugging
 //also shows all errors
-//console.log("this is the console.")
+console.log("this is the console.")
 
 
 // basic condition
