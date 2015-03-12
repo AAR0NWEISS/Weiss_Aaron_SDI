@@ -1,6 +1,10 @@
-/**
- * Created by aweiss on 3/12/15.
+/*
+ Aaron Weiss
+ 5MAR2015
+ SEC00
+ Day 2 Into
  */
+
 
 
 
@@ -24,7 +28,7 @@ Well done 	160 °F+	160 °F for ground beef
 
 var steakTemp = prompt("what is the temp of steak?");
 
-steakTemp = parseInt(steakTemp);
+//steakTemp = parseInt(steakTemp);
 
 
 //create a var for our steak temp
