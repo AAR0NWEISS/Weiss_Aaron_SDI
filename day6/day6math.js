@@ -67,3 +67,5 @@ var areaCircle=raduis*raduis*Math.PI
 //this is to fixed(#) = rounds the number to the number of decmial places
 console.log (areaCircle)
 console.log (areaCircle.toFixed(2))
+
+
