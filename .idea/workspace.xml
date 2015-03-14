@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbf36953-2788-46ba-b6cf-63252203d853" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day6/day6 for loops.html" afterPath="$PROJECT_DIR$/day6/day6 for loops.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day6/day6forloops.js" afterPath="$PROJECT_DIR$/day6/day6forloops.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day6/day6 valadatoin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day6/day6val.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Weiss_Aaron_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,12 +38,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day6forloops.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="day6forloops.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day6/day6forloops.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.65384614" vertical-offset="0" max-vertical-offset="885">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885">
               <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day6 valadatoin.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day6/day6 valadatoin.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day6val.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day6/day6val.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.44230768" vertical-offset="0" max-vertical-offset="780">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -93,6 +116,8 @@
         <option value="$PROJECT_DIR$/day6/day6loops.js" />
         <option value="$PROJECT_DIR$/day6/day6 for loops.html" />
         <option value="$PROJECT_DIR$/day6/day6forloops.js" />
+        <option value="$PROJECT_DIR$/day6/day6 valadatoin.html" />
+        <option value="$PROJECT_DIR$/day6/day6val.js" />
       </list>
     </option>
   </component>
@@ -427,17 +452,10 @@
       <recent name="$PROJECT_DIR$/Day3/js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.day6 for loops.html">
+  <component name="RunManager" selected="JavaScript Debug.day6 valadatoin.html">
     <configuration default="false" name="Weiss_Aaron_Conditionals_Assignment..html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weiss_Aaron_SDI/Conditionals_worksheet/Weiss_Aaron_Conditionals_Assignment..html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Weiss_Aaron_Conditionals_Assignment..js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Weiss_Aaron_Conditionals_Assignment..js" working-dir="$PROJECT_DIR$/Conditionals_worksheet/js">
-      <RunnerSettings RunnerId="Basic" />
-      <RunnerSettings RunnerId="debuggableProgram" />
-      <ConfigurationWrapper RunnerId="Basic" />
-      <ConfigurationWrapper RunnerId="debuggableProgram" />
       <method />
     </configuration>
     <configuration default="false" name="day6math.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weiss_Aaron_SDI/day6/day6math.html">
@@ -451,6 +469,11 @@
       <method />
     </configuration>
     <configuration default="false" name="day6 for loops.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weiss_Aaron_SDI/day6/day6 for loops.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="day6 valadatoin.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weiss_Aaron_SDI/day6/day6 valadatoin.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -501,18 +524,18 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.day3lab.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Weiss_Aaron_Conditionals_Assignment..html" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.Weiss_Aaron_Conditionals_Assignment..js" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.day6math.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.day6lopps.html" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.day6 for loops.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.day6math.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.day6lopps.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.day6 for loops.html" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.day6 valadatoin.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.day6 for loops.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.day6lopps.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.day6math.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Weiss_Aaron_Conditionals_Assignment..html" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.Weiss_Aaron_Conditionals_Assignment..js" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.day6 valadatoin.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.day6 for loops.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.day6lopps.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.day6math.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Weiss_Aaron_Conditionals_Assignment..html" />
       </list>
     </recent_temporary>
   </component>
@@ -934,9 +957,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day6/day6forloops.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65384614" vertical-offset="0" max-vertical-offset="885">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885">
           <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day6/day6 valadatoin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day6/day6val.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44230768" vertical-offset="0" max-vertical-offset="780">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
