@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbf36953-2788-46ba-b6cf-63252203d853" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conditionals_worksheet/Weiss_Aaron_Conditionals_Assignment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day6/day6math.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day6/day6math.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Conditionals_worksheet/js/Weiss_Aaron_Conditionals_Assignment..js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_worksheet/Weiss_Aaron_Conditionals_Assignment..html" afterPath="$PROJECT_DIR$/Conditionals_worksheet/Weiss_Aaron_Conditionals_Assignment..html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day6/day6math.js" afterPath="$PROJECT_DIR$/day6/day6math.js" />
     </list>
     <ignored path="Weiss_Aaron_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -68,8 +63,8 @@
       <file leaf-file-name="day6math.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day6/day6math.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17307693" vertical-offset="0" max-vertical-offset="780">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.86538464" vertical-offset="345" max-vertical-offset="1125">
+              <caret line="68" column="27" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="27" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -517,12 +512,7 @@
       <recent name="$PROJECT_DIR$/Day3/js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Weiss_Aaron_Conditionals_Assignment..html">
-    <configuration default="false" name="day4lab.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weiss_Aaron_SDI/day4lab/day4lab.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.day6math.html">
     <configuration default="false" name="day5xxxx.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weiss_Aaron_SDI/day5/day5xxxx.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
@@ -543,6 +533,11 @@
       <RunnerSettings RunnerId="debuggableProgram" />
       <ConfigurationWrapper RunnerId="Basic" />
       <ConfigurationWrapper RunnerId="debuggableProgram" />
+      <method />
+    </configuration>
+    <configuration default="false" name="day6math.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weiss_Aaron_SDI/day6/day6math.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -590,19 +585,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.day3lab.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.day4lab.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.day5xxxx.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.day5nesting_IF.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Weiss_Aaron_Conditionals_Assignment..html" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.Weiss_Aaron_Conditionals_Assignment..js" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.day5xxxx.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.day5nesting_IF.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Weiss_Aaron_Conditionals_Assignment..html" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.Weiss_Aaron_Conditionals_Assignment..js" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.day6math.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Weiss_Aaron_Conditionals_Assignment..html" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.Weiss_Aaron_Conditionals_Assignment..js" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.day5nesting_IF.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.day5xxxx.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.day4lab.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.day6math.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Weiss_Aaron_Conditionals_Assignment..html" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.Weiss_Aaron_Conditionals_Assignment..js" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.day5nesting_IF.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.day5xxxx.html" />
       </list>
     </recent_temporary>
   </component>
@@ -988,8 +983,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day6/day6math.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17307693" vertical-offset="0" max-vertical-offset="780">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.86538464" vertical-offset="345" max-vertical-offset="1125">
+          <caret line="68" column="27" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="27" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
