@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbf36953-2788-46ba-b6cf-63252203d853" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day7/day7arg.js" afterPath="$PROJECT_DIR$/day7/day7arg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day7/day7retruns.js" afterPath="$PROJECT_DIR$/day7/day7retruns.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Weiss_Aaron_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -102,11 +103,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day7arg.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="day7arg.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day7/day7arg.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8269231" vertical-offset="90" max-vertical-offset="870">
+            <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="870">
               <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+              <folding>
+                <element signature="n#!!doc;n#calcArea#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day7retruns.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day7/day7retruns.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day7retruns.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day7/day7retruns.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9423077" vertical-offset="129" max-vertical-offset="990">
+              <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
               <folding>
                 <element signature="n#!!doc;n#calcArea#0" expanded="false" />
               </folding>
@@ -122,8 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day2/js/script.js" />
-        <option value="$PROJECT_DIR$/day2Lab/js/day2Lab.js" />
         <option value="$PROJECT_DIR$/Day3/day3prompt.js" />
         <option value="$PROJECT_DIR$/day2/day2.html" />
         <option value="$PROJECT_DIR$/Day3/js/day3prompt.js" />
@@ -173,6 +194,8 @@
         <option value="$PROJECT_DIR$/day7/day7scop.js" />
         <option value="$PROJECT_DIR$/day7/day7arg.html" />
         <option value="$PROJECT_DIR$/day7/day7arg.js" />
+        <option value="$PROJECT_DIR$/day7/day7retruns.html" />
+        <option value="$PROJECT_DIR$/day7/day7retruns.js" />
       </list>
     </option>
   </component>
@@ -351,12 +374,7 @@
       <recent name="$PROJECT_DIR$/Day3/js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.day7arg.html">
-    <configuration default="false" name="day7 loop array.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weiss_Aaron_SDI/day7/day7 loop array.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.day7retruns.html">
     <configuration default="false" name="day7 functions.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="day7 functions.js" working-dir="$PROJECT_DIR$/day7">
       <RunnerSettings RunnerId="Basic" />
       <ConfigurationWrapper RunnerId="Basic" />
@@ -373,6 +391,11 @@
       <method />
     </configuration>
     <configuration default="false" name="day7arg.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weiss_Aaron_SDI/day7/day7arg.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="day7retruns.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weiss_Aaron_SDI/day7/day7retruns.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -422,19 +445,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.day3lab.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.day7 loop array.html" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.day7 functions.js" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.day7 functions.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.day7Scop.html" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.day7arg.html" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.day7 functions.js" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.day7 functions.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.day7Scop.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.day7arg.html" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.day7retruns.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.day7arg.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.day7Scop.html" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.day7 functions.js" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.day7 functions.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.day7 loop array.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.day7retruns.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.day7arg.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.day7Scop.html" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.day7 functions.js" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.day7 functions.html" />
       </list>
     </recent_temporary>
   </component>
@@ -498,22 +521,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day2Lab/day2Lab.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day3lab/day3lab.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day3lab/js/day3lab.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
@@ -918,8 +925,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day7/day7arg.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8269231" vertical-offset="90" max-vertical-offset="870">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="870">
           <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+          <folding>
+            <element signature="n#!!doc;n#calcArea#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7/day7retruns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7/day7retruns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9423077" vertical-offset="129" max-vertical-offset="990">
+          <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
           <folding>
             <element signature="n#!!doc;n#calcArea#0" expanded="false" />
           </folding>
