@@ -5,7 +5,7 @@
 
 //alert("test")
 /////////////////////////////////////////////////////Circumference///////////////////////////////////////////////////////////////////
-var radius = 2;
+var radius = 2;//set var to value of 2,
 
 function calculatorCircumference(r){//function = create factory and call it "calculatorCircumference" (R)=floating variable
 
@@ -22,14 +22,13 @@ console.log("The circumference of the circle is "+circumferenceMAINcode+".");//O
 
 
 //////////////////////////////////////////////////////////Stung!//////////////////////////////////////////////////////////////////////////
-var numOfPounds=5;
+var numOfPounds=5;//set var to value of 5,
 
-function calculatorBee(w){
-    var wightINpounds=8.666666667*w;
-    console.log(wightINpounds);
-    return wightINpounds;
-
+function calculatorBee(w){//functoin = create factory and calls it calculatorBee, and (w)=floating variable
+    var wightINpounds=8.666666667*w;// creates var called wightINpounds, and cal 8.6 * var called numberOfPounds
+    console.log(wightINpounds);// output to console ECHO
+    return wightINpounds;//relocates function var to main code
 }
 
 var wINpound=calculatorBee(numOfPounds);
-console.log("It takes "+wINpound+" bee stings to kill this animal.")
+console.log("It takes "+wINpound+" bee stings to kill this animal.");
