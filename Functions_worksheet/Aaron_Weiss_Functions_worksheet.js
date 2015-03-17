@@ -13,7 +13,9 @@ function calculatorCircumference(r){//function = create factory and call it "cal
 
 }
 
-calculatorCircumference(4);
+//calculatorCircumference(4);//calls output from function, i.g. runs code for calculatorCirumference
 //or
-var circumferenceMAINcode = calculatorCircumference(4);
-console.log("The Circumference of the Circle is "+circumferenceMAINcode+".");
+var circumferenceMAINcode = calculatorCircumference(4);//stores output from function into var circumferenceMAINcode
+console.log("The circumference of the circle is "+circumferenceMAINcode+".");//Output from var circumferenceMAINcode in main code
+
+
