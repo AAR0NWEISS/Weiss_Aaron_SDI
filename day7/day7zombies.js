@@ -1,4 +1,4 @@
-/**
+/*
  * Created by aweiss on 3/17/15.
  */
 /**
@@ -26,7 +26,7 @@ var numBites=4;
 // number of day the cdc want
 var days=8;
 
-//create for loop to calc zobie number
+/*create for loop to calc zobie number
 
 for(var i=1; i<=days; i++){
     //how many NEW zombies get made everyday
@@ -42,4 +42,23 @@ for(var i=1; i<=days; i++){
 
 
 //how long will it take to get a million zombies
+*/
 
+var numDay = 1;
+
+while(numZombies <= 1000000){
+
+    for(var i=1; i<=days; i++){
+        //how many NEW zombies get made everyday
+        var newZombies = numBites * numBites;
+
+        //add teh new zombies to the our exhaustin horde
+        numZombies += newZombies ;
+
+        //console.log the results
+        console.log("there are "+numZombies+" mmember of zombies on day"+i+".");
+
+        numDay++;
+}
+
+    console.log("It will take "+(numDay-1)+" days to reach a million zombies");
