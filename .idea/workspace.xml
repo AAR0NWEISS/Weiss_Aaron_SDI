@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbf36953-2788-46ba-b6cf-63252203d853" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day8/day8pro.js" afterPath="$PROJECT_DIR$/day8/day8pro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day8/day8anyno.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day8/day8anyno.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day8/day8mult.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day8/day8mut.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Weiss_Aaron_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,52 +30,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day7scop.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day7/day7scop.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="780">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#40#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="day7arg.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day7/day7arg.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="240">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="day7arg.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day7/day7arg.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="870">
-              <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
-              <folding>
-                <element signature="n#!!doc;n#calcArea#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="day7retruns.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day7/day7retruns.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="825">
-              <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
-              <folding>
-                <element signature="n#!!doc;n#calcArea#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Aaron_Weiss_Functions_worksheet.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Functions_worksheet/Aaron_Weiss_Functions_worksheet.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -124,14 +82,54 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day8pro.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="day8pro.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day8/day8pro.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5769231" vertical-offset="0" max-vertical-offset="780">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc;n#calArea#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day8anyno.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day8/day8anyno.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day8anyno.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day8/day8anyno.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
+              <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day8mut.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day8/day8mut.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day8mult.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day8/day8mult.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9423077" vertical-offset="450" max-vertical-offset="1275">
+              <caret line="79" column="85" selection-start-line="79" selection-start-column="85" selection-end-line="79" selection-end-column="85" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -144,10 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day3lab/day3lab.js" />
-        <option value="$PROJECT_DIR$/Day3/js/day3casting.js" />
-        <option value="$PROJECT_DIR$/day4/js/day4.js" />
-        <option value="$PROJECT_DIR$/day4/day2.html" />
         <option value="$PROJECT_DIR$/day4/js/day4con.html" />
         <option value="$PROJECT_DIR$/day4/js/js/js.js" />
         <option value="$PROJECT_DIR$/day4/js/day4logic.html" />
@@ -195,6 +189,10 @@
         <option value="$PROJECT_DIR$/day8/day8random.js" />
         <option value="$PROJECT_DIR$/day8/day8pro.html" />
         <option value="$PROJECT_DIR$/day8/day8pro.js" />
+        <option value="$PROJECT_DIR$/day8/day8anyno.html" />
+        <option value="$PROJECT_DIR$/day8/day8anyno.js" />
+        <option value="$PROJECT_DIR$/day8/day8mut.html" />
+        <option value="$PROJECT_DIR$/day8/day8mult.js" />
       </list>
     </option>
   </component>
@@ -401,17 +399,7 @@
       <recent name="$PROJECT_DIR$/Day3/js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.day8pro.html">
-    <configuration default="false" name="day7arg.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weiss_Aaron_SDI/day7/day7arg.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="day7retruns.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weiss_Aaron_SDI/day7/day7retruns.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.day8mut.html">
     <configuration default="false" name="Aaron_Weiss_Functions_worksheet.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weiss_Aaron_SDI/Functions_worksheet/Aaron_Weiss_Functions_worksheet.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
@@ -423,6 +411,16 @@
       <method />
     </configuration>
     <configuration default="false" name="day8pro.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weiss_Aaron_SDI/day8/day8pro.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="day8anyno.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weiss_Aaron_SDI/day8/day8anyno.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="day8mut.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weiss_Aaron_SDI/day8/day8mut.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -472,19 +470,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.day3lab.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.day7arg.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.day7retruns.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Aaron_Weiss_Functions_worksheet.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.day8random.html" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.day8pro.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Aaron_Weiss_Functions_worksheet.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.day8random.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.day8pro.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.day8anyno.html" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.day8mut.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.day8pro.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.day8random.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Aaron_Weiss_Functions_worksheet.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.day7retruns.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.day7arg.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.day8mut.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.day8anyno.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.day8pro.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.day8random.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Aaron_Weiss_Functions_worksheet.html" />
       </list>
     </recent_temporary>
   </component>
@@ -548,34 +546,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day3/day3casting.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="225">
-          <caret line="5" column="52" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/js/day4logic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="240">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/js/day4logic.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="915">
-          <caret line="54" column="40" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day3/day3Arrays.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="240">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day2Lab/js/day2Lab.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1890">
@@ -657,6 +627,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1155">
           <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -727,6 +700,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1152">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -930,11 +906,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day8/day8pro.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5769231" vertical-offset="0" max-vertical-offset="780">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc;n#calArea#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8/day8anyno.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8/day8anyno.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
+          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8/day8mut.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8/day8mult.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9423077" vertical-offset="450" max-vertical-offset="1275">
+          <caret line="79" column="85" selection-start-line="79" selection-start-column="85" selection-end-line="79" selection-end-column="85" />
+          <folding />
         </state>
       </provider>
     </entry>
