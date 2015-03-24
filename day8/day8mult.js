@@ -77,4 +77,4 @@ function cobminRec(w,h){
 var cobminrecresults = cobminRec(width, height);
 
 console.log(cobminrecresults);
-console.log ("The parimter of your rectangle is "+cobminrecresults+"and the area is ")
+console.log ("The parimter of your rectangle is "+cobminrecresults+"and the area is ");
