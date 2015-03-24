@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbf36953-2788-46ba-b6cf-63252203d853" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day8/day8random.js" afterPath="$PROJECT_DIR$/day8/day8random.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day8/day8pro.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day8/day8pro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Weiss_Aaron_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,18 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day7 functions.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day7/day7 functions.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="720">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc;n#printHello#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="day7scop.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day7/day7scop.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -68,16 +58,6 @@
               <folding>
                 <element signature="n#!!doc;n#calcArea#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="day7retruns.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day7/day7retruns.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="240">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -126,12 +106,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day8random.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="day8random.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day8/day8random.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8269231" vertical-offset="150" max-vertical-offset="930">
+            <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="930">
               <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day8pro.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day8/day8pro.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day8pro.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day8/day8pro.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.09615385" vertical-offset="0" max-vertical-offset="780">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#40#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,8 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day3/js/day3Arrays.js" />
-        <option value="$PROJECT_DIR$/Day3/day3casting.html" />
         <option value="$PROJECT_DIR$/day3lab/day3lab.js" />
         <option value="$PROJECT_DIR$/Day3/js/day3casting.js" />
         <option value="$PROJECT_DIR$/day4/js/day4.js" />
@@ -195,6 +195,8 @@
         <option value="$PROJECT_DIR$/Functions_worksheet/Aaron_Weiss_Functions_worksheet.js" />
         <option value="$PROJECT_DIR$/day8/day8random.html" />
         <option value="$PROJECT_DIR$/day8/day8random.js" />
+        <option value="$PROJECT_DIR$/day8/day8pro.html" />
+        <option value="$PROJECT_DIR$/day8/day8pro.js" />
       </list>
     </option>
   </component>
@@ -401,12 +403,7 @@
       <recent name="$PROJECT_DIR$/Day3/js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.day8random.html">
-    <configuration default="false" name="day7Scop.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weiss_Aaron_SDI/day7/day7Scop.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.day8pro.html">
     <configuration default="false" name="day7arg.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weiss_Aaron_SDI/day7/day7arg.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
@@ -423,6 +420,11 @@
       <method />
     </configuration>
     <configuration default="false" name="day8random.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weiss_Aaron_SDI/day8/day8random.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="day8pro.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weiss_Aaron_SDI/day8/day8pro.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -472,19 +474,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.day3lab.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.day7Scop.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.day7arg.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.day7retruns.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Aaron_Weiss_Functions_worksheet.html" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.day8random.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.day7arg.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.day7retruns.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Aaron_Weiss_Functions_worksheet.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.day8random.html" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.day8pro.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.day8random.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Aaron_Weiss_Functions_worksheet.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.day7retruns.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.day7arg.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.day7Scop.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.day8pro.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.day8random.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Aaron_Weiss_Functions_worksheet.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.day7retruns.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.day7arg.html" />
       </list>
     </recent_temporary>
   </component>
@@ -502,7 +504,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="23" width="1436" height="877" extended-state="7" />
+    <frame x="4" y="23" width="1436" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -548,20 +550,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day3/js/day3casting.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="945">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day3/js/day3prompt.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day3/day3casting.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="225">
@@ -823,7 +811,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1035">
           <caret line="63" column="79" selection-start-line="63" selection-start-column="79" selection-end-line="63" selection-end-column="79" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -928,9 +916,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day8/day8random.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8269231" vertical-offset="150" max-vertical-offset="930">
+        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="930">
           <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8/day8pro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8/day8pro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09615385" vertical-offset="0" max-vertical-offset="780">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
