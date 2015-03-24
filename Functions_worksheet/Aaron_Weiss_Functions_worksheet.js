@@ -30,5 +30,5 @@ function calculatorBee(w){//functoin = create factory and calls it calculatorBee
     return wightINpounds;//relocates function var to main code
 }
 
-var wINpound=calculatorBee(numOfPounds);
-console.log("It takes "+wINpound+" bee stings to kill this animal.");
+var wINpound=calculatorBee(numOfPounds);// creates var wINpound from function calculatorbee
+console.log("It takes "+wINpound+" bee stings to kill this animal.");//Output form var wINpound with text string
